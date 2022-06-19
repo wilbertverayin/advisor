@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/advisor/static/css/main.6955f48c.css",
+    "main.js": "/advisor/static/js/main.bd64d9d7.js",
+    "index.html": "/advisor/index.html",
+    "main.6955f48c.css.map": "/advisor/static/css/main.6955f48c.css.map",
+    "main.bd64d9d7.js.map": "/advisor/static/js/main.bd64d9d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6955f48c.css",
+    "static/js/main.bd64d9d7.js"
+  ]
+}
